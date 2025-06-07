@@ -103,18 +103,7 @@ The modern, real-time editor that offers a clean and responsive interface built 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+![Image](https://github.com/user-attachments/assets/59e1df6e-1d86-4f06-b2db-d7ff2da35cfb)
 
 
 
@@ -129,10 +118,7 @@ The modern, real-time editor that offers a clean and responsive interface built 
 
 # The below screenshot represents
 
-🔹Modern, responsive editor built with React.js and Quill.js offers a clean and user-friendly experience for rich text editing. Users can format content, create lists, and collaborate in real time. 
-
-🔹The integrated Save button ensures instant manual saving, while auto-save runs silently in the background. Perfectly designed for productivity, teamwork, and seamless document management.
-
+This screenshot showcases the powerful real-time editing capability of the application. Edits made in one tab are instantly reflected in another, demonstrating seamless collaboration. Built using Socket.IO, this feature allows multiple users to work on the same document simultaneously—perfect for team productivity and live co-authoring.
 
 
 
