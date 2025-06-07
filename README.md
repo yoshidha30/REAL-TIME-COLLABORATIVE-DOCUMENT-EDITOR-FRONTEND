@@ -35,17 +35,73 @@ Overall, the frontend successfully delivers a responsive and interactive environ
 # OUTPUT:
 
 
+ # The below screenshot shows
 
-The React-based collaborative editor UI is now live on : http://localhost:5173/
-
-
-Built using Vite for ultra-fast development and React.js for a dynamic, real-time experience. The clean, responsive interface loads instantly and supports live editing features.
+🔹The React-based collaborative editor UI is now live on : http://localhost:5173/
 
 
-Output confirms the frontend is ready for collaboration!
+🔹Built using Vite for ultra-fast development and React.js for a dynamic, real-time experience. The clean, responsive interface loads instantly and supports live editing features.
+
+
+🔹Output confirms the frontend is ready for collaboration!
 
 
 
 
 
 ![Image](https://github.com/user-attachments/assets/70b28cc5-853c-42fb-a9b0-0c31bd98b97e)
+
+
+
+
+
+
+
+
+
+
+
+# The below output screenshot shows
+
+The sleek and minimal dashboard that allows users to:
+
+🔹 Create new collaborative documents
+
+🔹 View all saved documents in one place
+
+🔹 Instantly access and open any document
+
+Built with React.js for a fast, responsive experience. A clean and user-friendly design ensures smooth navigation and effortless document management.
+
+
+
+
+
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/70b28cc5-853c-42fb-a9b0-0c31bd98b97e)
+
+
+
+
+
+
+
+
+
+# The below screenshot represents
+
+🔹Modern, responsive editor built with React.js and Quill.js offers a clean and user-friendly experience for rich text editing. Users can format content, create lists, and collaborate in real time. 
+
+🔹The integrated Save button ensures instant manual saving, while auto-save runs silently in the background. Perfectly designed for productivity, teamwork, and seamless document management.
+
+
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/895093ae-8da5-452c-9353-1aeaf27b615a)
