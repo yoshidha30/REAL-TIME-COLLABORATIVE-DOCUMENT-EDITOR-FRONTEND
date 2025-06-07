@@ -136,7 +136,7 @@ The powerful real-time editing capability of the application. Edits made in one 
 
 
 
-# The below sceenshot highlights
+# The below screenshot highlights
 
 The backend storage of all collaborative documents using MongoDB. Each document is securely saved with a unique ID, ensuring persistent data retention and seamless retrieval. MongoDB’s flexible schema design allows efficient handling of rich text data, supporting the dynamic nature of the editor.
 
