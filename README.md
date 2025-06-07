@@ -61,7 +61,7 @@ Overall, the frontend successfully delivers a responsive and interactive environ
 
 
 
-# The below output screenshot shows
+# The below output screenshot describes
 
 The sleek and minimal dashboard that allows users to:
 
@@ -92,7 +92,7 @@ Built with React.js for a fast, responsive experience. A clean and user-friendly
 
 
 
-# The below screenshot describes
+# The below screenshot represents
 
 The modern, real-time editor that offers a clean and responsive interface built with React.js and Quill.js. It features a rich toolbar with text formatting options (bold, italic, underline, lists, and more) and a dedicated Save button to manually back up content anytime. Perfect for focused, collaborative editing with live updates across users.
 
@@ -116,13 +116,13 @@ The modern, real-time editor that offers a clean and responsive interface built 
 
 
 
-# The below screenshot represents
+# The below screenshot showcases
 
-This screenshot showcases the powerful real-time editing capability of the application. Edits made in one tab are instantly reflected in another, demonstrating seamless collaboration. Built using Socket.IO, this feature allows multiple users to work on the same document simultaneously—perfect for team productivity and live co-authoring.
-
-
+The powerful real-time editing capability of the application. Edits made in one tab are instantly reflected in another, demonstrating seamless collaboration. Built using Socket.IO, this feature allows multiple users to work on the same document simultaneously—perfect for team productivity and live co-authoring.
 
 
 
 
-![Image](https://github.com/user-attachments/assets/895093ae-8da5-452c-9353-1aeaf27b615a)
+
+
+
