@@ -82,7 +82,42 @@ Built with React.js for a fast, responsive experience. A clean and user-friendly
 
 
 
-![Image](https://github.com/user-attachments/assets/70b28cc5-853c-42fb-a9b0-0c31bd98b97e)
+![Image](https://github.com/user-attachments/assets/215dd967-9766-408c-9a49-beeab2c2ede7)
+
+
+
+
+
+
+
+
+
+# The below screenshot describes
+
+The modern, real-time editor that offers a clean and responsive interface built with React.js and Quill.js. It features a rich toolbar with text formatting options (bold, italic, underline, lists, and more) and a dedicated Save button to manually back up content anytime. Perfect for focused, collaborative editing with live updates across users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
